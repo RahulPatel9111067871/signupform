@@ -1,0 +1,57 @@
+body{
+background-color: aquamarine;
+margin:0;
+font-family: Tahoma;
+    font-size: 16px;
+}
+h3{
+  text-align: center;
+  margin-top: 60px
+  
+}
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 500px;
+    margin: 50px auto;
+    
+    
+  }
+
+  lable{
+    
+    width:100%;
+  }
+.add{
+    
+    max-width:500px;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    Border: none;
+    text-align: left;
+    border-bottom:2px solid
+}
+
+
+
+
+input{
+  margin: 10px 0 0 0;
+  width:100%;
+background-color: aqua;
+
+}
+input[type="submit"]{
+  width:20%;
+
+}
+#checkbox{
+  width: 10%;
+  height: 2vh;
+}
+.sum{
+  border:none;
+  text-align: center;
+  
+}
